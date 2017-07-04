@@ -1,3 +1,4 @@
+
 # Jumpstart To Hide Complexity
 Interconnected Application development environment for both Android and IOS using React-native with Nodejs to write a real native Mobile Applications .
 
@@ -22,7 +23,8 @@ Interconnected Application development environment for both Android and IOS usin
 -Use git Bash by right click on the <strong>react-native-dev-env</strong> folder then click <strong> git Bash Here </strong><br>
 -copy,paste,run this command in the git Bash command line to install the react-native command line interface globally<br>
    <strong>npm install -g react-native-cli</strong><br>
--Follow the instructions to configure Android studio for the use of Android Virtual Device(skip Chocolatey steps)<br>
+-Follow the instructions of Android studio for the use of Android Virtual Device(skip Chocolatey steps)<br>
+http://facebook.github.io/react-native/docs/getting-started.html
 -Make a new AVD device with this configurations and close android studio IDE<br>
 -Now once you want to start developing simply type this command <br>
    <strong>react-native run-android</strong><br>
